@@ -1,7 +1,7 @@
 <template>
   <div class="abs-br m-6 flex gap-2">
     <a
-      href="https://github.com/nova93/presentation-micro-frontends"
+      href="https://github.com/nova93/presentation-income-and-expenditure-form-challenges"
       target="_blank"
       alt="GitHub"
       class="text-xl icon-btn opacity-50 !border-none !hover:text-white"
