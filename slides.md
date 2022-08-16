@@ -92,3 +92,20 @@ src: ./slides/solution_2_reason_2.md
 layout: cover
 src: ./slides/solution_2_reason_3.md
 ---
+
+---
+layout: cover
+src: ./slides/learning_1.md
+---
+---
+layout: cover
+src: ./slides/learning_2.md
+---
+---
+layout: cover
+src: ./slides/learning_3.md
+---
+---
+layout: cover
+src: ./slides/learning_4.md
+---
