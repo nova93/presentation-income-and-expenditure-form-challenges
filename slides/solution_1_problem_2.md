@@ -7,6 +7,7 @@ _Problem 2_
 
 <!--
 - We did have to come up with a new spreadsheet
-- Custom calculations
-- Upload a file to the case
+- Comparison against averages
+- Verification with user (phone call)
+- Edit (if necessary) and upload to the case
 -->
