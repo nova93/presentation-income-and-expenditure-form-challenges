@@ -6,5 +6,6 @@ _Reason 2_
 <SelfPromo />
 
 <!--
-- Welcome
+- Super complicated customer journey, prone to errors
+- PII sent around in spreadsheets, using unencrypted emails
 -->

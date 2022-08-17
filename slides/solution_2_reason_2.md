@@ -6,5 +6,7 @@ _Reason 2_
 <SelfPromo />
 
 <!--
-- Welcome
+- AppSec/ITSec happy
+- Agents happy
+- Proper API and a viewer for agents
 -->

@@ -19,5 +19,6 @@ flowchart LR
 <SelfPromo />
 
 <!--
-- Welcome
+- Built using web architecture principles
+- Stick to emails, so that the agent process changes are kept minimal
 -->

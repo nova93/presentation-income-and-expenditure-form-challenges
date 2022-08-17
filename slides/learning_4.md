@@ -6,5 +6,9 @@ _Learning 4_
 <SelfPromo />
 
 <!--
-- Welcome
+- Document it all
+- Record of risk
+- Record of risk handling
+- Time stamps
+- Helps with prioritization of future work
 -->

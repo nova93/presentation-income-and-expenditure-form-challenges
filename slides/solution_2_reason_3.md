@@ -6,5 +6,8 @@ _Reason 3_
 <SelfPromo />
 
 <!--
-- Welcome
+- Audit of changes
+- Historical view of customer
+- Possibility of full automation in the future, reducing agent time even more
+- Instant decision
 -->

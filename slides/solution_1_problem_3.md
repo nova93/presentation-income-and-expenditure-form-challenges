@@ -6,5 +6,9 @@ _Problem 3_
 <SelfPromo />
 
 <!--
-- Welcome
+- For very old historical reasons, web operates in a different AWS account
+- New SES setup
+- Sandbox
+- 200 emails per 24h
+- Can we increased, by going to production
 -->

@@ -6,5 +6,7 @@ _Solution 1_
 <SelfPromo />
 
 <!--
-- Welcome
+- KISS - Keep It Simple Stupid
+- We can't do much about the manual post-data collection process, not in the time we have
+- But, we can improve user experience, and save agents a lot of time they'd otherwise spend going through spreadsheets
 -->

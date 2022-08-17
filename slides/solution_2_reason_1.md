@@ -6,5 +6,8 @@ _Reason 1_
 <SelfPromo />
 
 <!--
-- Welcome
+- Web teams historically very unstable
+- Web ownership fuzzy
+- Risk of PII in a store without a clear owner
+- SF is already handling PII
 -->

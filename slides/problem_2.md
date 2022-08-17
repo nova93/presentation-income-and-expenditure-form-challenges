@@ -6,5 +6,7 @@ _Problem 2_
 <SelfPromo />
 
 <!--
-- Welcome
+- Even once we have the online form, the process post-data collection is still manual
+- There is no API to send data to
+- PII/GDPR issue
 -->

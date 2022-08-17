@@ -6,5 +6,7 @@ _Task_
 <SelfPromo />
 
 <!--
-- Welcome
+- We were handed an Excel file
+- Show the file
+- Explain the current process
 -->

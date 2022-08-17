@@ -6,5 +6,7 @@ _Now_
 <SelfPromo />
 
 <!--
-- Welcome
+- Web is live
+- iOS is live
+- Android soon to follow
 -->

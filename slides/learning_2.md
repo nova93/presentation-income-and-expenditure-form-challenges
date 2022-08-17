@@ -6,5 +6,9 @@ _Learning 2_
 <SelfPromo />
 
 <!--
-- Welcome
+- Constant juggle
+- Deploy now
+- Build a better system
+- UX
+- Ease of integration
 -->

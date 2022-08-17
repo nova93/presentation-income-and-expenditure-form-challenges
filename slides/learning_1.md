@@ -6,5 +6,7 @@ _Learning 1_
 <SelfPromo />
 
 <!--
-- Welcome
+- GDPR
+- Handling of vulnerable customers
+- Careful with handling of users in the red
 -->

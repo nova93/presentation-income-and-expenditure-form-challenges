@@ -6,5 +6,5 @@ _Solution 2_
 <SelfPromo />
 
 <!--
-- Welcome
+- CM team
 -->

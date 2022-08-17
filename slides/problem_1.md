@@ -6,5 +6,7 @@ _Problem 1_
 <SelfPromo />
 
 <!--
-- Welcome
+- We were told that this work needs to go live ASAP
+- Very limited planning time
+- Very little chance to understand the old process
 -->
